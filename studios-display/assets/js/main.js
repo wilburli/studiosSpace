@@ -20,7 +20,7 @@
     });
   };
 
-  // 服装定制轮播
+  // 项目定制轮播
   const projectOrdering = $('#project-ordering');
   if (projectOrdering.length) {
     var swiper = new Swiper('#project-ordering', {

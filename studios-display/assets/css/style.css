@@ -157,7 +157,7 @@ input, button {
   border-bottom: 1px solid #333333;
   color: #999999;
 }
-/* 服装定制 */
+/* 项目定制 */
 .project-ordering {
   width: 1200px;
   margin: 0 auto;
@@ -540,7 +540,7 @@ input, button {
   color: #333333;
 }
 
-/* 服装列表页 */
+/* 项目列表页 */
 .main > .top {
   display: flex;
   justify-content: space-between;
@@ -671,7 +671,7 @@ input, button {
   background-color: #333333;
 }
 
-/* 服装详情页 */
+/* 项目详情页 */
 .main > .project-detail {
   width: 1200px;
   margin: 0 auto 30px;
